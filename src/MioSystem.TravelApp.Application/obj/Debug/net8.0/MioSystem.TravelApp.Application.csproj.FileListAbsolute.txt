@@ -1,0 +1,17 @@
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Application.deps.json
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Application.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Application.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Contracts.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Domain.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Domain.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\bin\Debug\net8.0\MioSystem.TravelApp.Contracts.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.csproj.AssemblyReference.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.AssemblyInfoInputs.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.AssemblyInfo.cs
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSyste.159294E2.Up2Date
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\refint\MioSystem.TravelApp.Application.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\MioSystem.TravelApp.Application.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Application\obj\Debug\net8.0\ref\MioSystem.TravelApp.Application.dll

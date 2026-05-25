@@ -1,0 +1,76 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/.ropeproject
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# .NET
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# ASP.NET / local settings
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Local.json
+.env
+.env.*
+secrets.json
+
+# Database files and backups
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.bacpac
+
+# Logs
+*.log
+logs/
+LogFiles/
+
+# Publish output
+publish/
+Publish/
+*.deploy
+
+# Certificates, keys, signing files
+*.pfx
+*.p12
+*.pem
+*.key
+*.snk
+*.jks
+*.keystore
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+Thumbs.db
+.DS_Store
+
+# Packages / generated zip files
+*.zip
+*.7z
+*.rar

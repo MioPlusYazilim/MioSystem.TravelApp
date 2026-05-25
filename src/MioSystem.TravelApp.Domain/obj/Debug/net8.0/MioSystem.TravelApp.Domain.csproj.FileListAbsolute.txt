@@ -1,0 +1,11 @@
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\bin\Debug\net8.0\MioSystem.TravelApp.Domain.deps.json
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\bin\Debug\net8.0\MioSystem.TravelApp.Domain.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\bin\Debug\net8.0\MioSystem.TravelApp.Domain.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\MioSystem.TravelApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\MioSystem.TravelApp.Domain.AssemblyInfoInputs.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\MioSystem.TravelApp.Domain.AssemblyInfo.cs
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\MioSystem.TravelApp.Domain.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\MioSystem.TravelApp.Domain.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\refint\MioSystem.TravelApp.Domain.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\MioSystem.TravelApp.Domain.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Domain\obj\Debug\net8.0\ref\MioSystem.TravelApp.Domain.dll

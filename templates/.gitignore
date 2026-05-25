@@ -1,0 +1,29 @@
+# Build
+bin/
+obj/
+.vs/
+.vscode/.vs/
+
+# User files
+*.user
+*.suo
+*.rsuser
+
+# Logs
+*.log
+logs/
+
+# Secrets / local config
+appsettings.Local.json
+appsettings.*.Local.json
+*.pfx
+*.pem
+*.key
+
+# Database backups
+*.bak
+*.trn
+
+# OS
+.DS_Store
+Thumbs.db

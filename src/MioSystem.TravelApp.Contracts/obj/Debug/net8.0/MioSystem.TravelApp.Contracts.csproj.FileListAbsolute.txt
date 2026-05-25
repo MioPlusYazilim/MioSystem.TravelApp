@@ -1,0 +1,11 @@
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\bin\Debug\net8.0\MioSystem.TravelApp.Contracts.deps.json
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\bin\Debug\net8.0\MioSystem.TravelApp.Contracts.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\bin\Debug\net8.0\MioSystem.TravelApp.Contracts.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\MioSystem.TravelApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\MioSystem.TravelApp.Contracts.AssemblyInfoInputs.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\MioSystem.TravelApp.Contracts.AssemblyInfo.cs
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\MioSystem.TravelApp.Contracts.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\MioSystem.TravelApp.Contracts.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\refint\MioSystem.TravelApp.Contracts.dll
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\MioSystem.TravelApp.Contracts.pdb
+C:\WorkSpaces\MioSystem.TravelApp\MioSystem.TravelApp.ProjectSetup\src\MioSystem.TravelApp.Contracts\obj\Debug\net8.0\ref\MioSystem.TravelApp.Contracts.dll
