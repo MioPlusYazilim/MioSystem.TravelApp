@@ -8457,11 +8457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\tests\\MioSystem.TravelApp.Tests\\MioSystem.TravelApp.Tests.csproj",
+      "projectUniqueName": "C:\\WorkSpaces\\MioSystem.TravelApp\\tests\\MioSystem.TravelApp.Tests\\MioSystem.TravelApp.Tests.csproj",
       "projectName": "MioSystem.TravelApp.Tests",
-      "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\tests\\MioSystem.TravelApp.Tests\\MioSystem.TravelApp.Tests.csproj",
+      "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\tests\\MioSystem.TravelApp.Tests\\MioSystem.TravelApp.Tests.csproj",
       "packagesPath": "C:\\Users\\Süleyman\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\tests\\MioSystem.TravelApp.Tests\\obj\\",
+      "outputPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\tests\\MioSystem.TravelApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
@@ -8486,14 +8486,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Api\\MioSystem.TravelApp.Api.csproj": {
-              "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Api\\MioSystem.TravelApp.Api.csproj"
+            "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Api\\MioSystem.TravelApp.Api.csproj": {
+              "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Api\\MioSystem.TravelApp.Api.csproj"
             },
-            "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Application\\MioSystem.TravelApp.Application.csproj": {
-              "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Application\\MioSystem.TravelApp.Application.csproj"
+            "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Application\\MioSystem.TravelApp.Application.csproj": {
+              "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Application\\MioSystem.TravelApp.Application.csproj"
             },
-            "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Infrastructure\\MioSystem.TravelApp.Infrastructure.csproj": {
-              "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Infrastructure\\MioSystem.TravelApp.Infrastructure.csproj"
+            "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Infrastructure\\MioSystem.TravelApp.Infrastructure.csproj": {
+              "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Infrastructure\\MioSystem.TravelApp.Infrastructure.csproj"
             }
           }
         }

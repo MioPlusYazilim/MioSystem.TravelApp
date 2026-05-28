@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Contracts\\MioSystem.TravelApp.Contracts.csproj",
+      "projectUniqueName": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Contracts\\MioSystem.TravelApp.Contracts.csproj",
       "projectName": "MioSystem.TravelApp.Contracts",
-      "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Contracts\\MioSystem.TravelApp.Contracts.csproj",
+      "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Contracts\\MioSystem.TravelApp.Contracts.csproj",
       "packagesPath": "C:\\Users\\Süleyman\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Contracts\\obj\\",
+      "outputPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

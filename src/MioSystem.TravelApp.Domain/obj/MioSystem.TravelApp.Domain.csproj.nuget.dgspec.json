@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj": {}
+    "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj": {
+    "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj",
+        "projectUniqueName": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj",
         "projectName": "MioSystem.TravelApp.Domain",
-        "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj",
+        "projectPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Domain\\MioSystem.TravelApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Süleyman\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\MioSystem.TravelApp.ProjectSetup\\src\\MioSystem.TravelApp.Domain\\obj\\",
+        "outputPath": "C:\\WorkSpaces\\MioSystem.TravelApp\\src\\MioSystem.TravelApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
